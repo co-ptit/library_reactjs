@@ -1,6 +1,7 @@
-1. Thư viện trong dự án:
+1. Thư viện dùng trong dự án:
 - axios
 - bootstrap
+- react-bootstrap
 - react-hook-form
 - react-router-dom
 - uuid
